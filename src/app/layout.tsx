@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Grid",
-  description: "Sakeena Majeed",
+  title: "Happy Teacher Day",
+  description: "Happy Teacher's Day Sir Hamzah!",
 };
 
 export default function RootLayout({
